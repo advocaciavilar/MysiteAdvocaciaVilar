@@ -3,6 +3,11 @@
     background-color:#1f324f;   
     text-align: center;
   }
+  #imagemtopo{
+      height: 600px;
+      width:1480px;
+      border-radius: 0px;
+  }
   
   .nav-link {
       color: white;
